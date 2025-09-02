@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arunabh Singh and I'm a Computer Programmer, from Manipal University Jaipur 🃏 🃏</h2>
+<h2 align="left">Hi 👋! My name is Arunabh Singh and I'm a Computer Engineer, from Manipal University Jaipur 🃏 🃏</h2>
 
 ###
 
