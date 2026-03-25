@@ -12,22 +12,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <!-- Main Stats (FIXED) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunabh17oo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" height="165"/>
-
-  <!-- Top Languages (FIXED) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunabh17oo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <!-- Streak Stats (ADDED for consistency) -->
-  <img src="https://streak-stats.demolab.com?user=Arunabh17oo&theme=tokyonight&hide_border=true" height="165"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunabh17oo&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunabh17oo&layout=compact&theme=tokyonight" height="165"/>
 </div>
 
 ---
@@ -35,7 +21,9 @@
 ## 🧑‍💻 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=js,html,css,python,c,java,mysql,swift,mongodb,express,react,nodejs,tensorflow,pytorch&perline=7" />
+
 </p>
 
 ---
@@ -58,7 +46,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunabh17oo&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunabh17oo&theme=tokyo-night"/>
 </div>
 
 ---
