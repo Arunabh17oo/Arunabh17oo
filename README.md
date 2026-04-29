@@ -54,43 +54,6 @@ class ArunabhSingh:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arunabh17oo/Arunabh17oo/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<details>
-
-Create `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions → Generate Snake Animation → Run workflow** once manually.
-
-</details>
-
 ---
 
 ## 📊 GitHub Stats
