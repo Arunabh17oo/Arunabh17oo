@@ -55,7 +55,6 @@ class ArunabhSingh:
 </picture>
 
 <details>
-<summary><b>⚙️ How to activate the snake (one-time setup)</b></summary>
 
 Create `.github/workflows/snake.yml` in this repo:
 
