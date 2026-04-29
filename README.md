@@ -49,15 +49,15 @@ class ArunabhSingh:
 ## 🐍 Snake eating my contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arunabh16/arunabh16/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arunabh16/arunabh16/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arunabh16/arunabh16/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunabh17oo/Arunabh17oo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arunabh17oo/Arunabh17oo/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arunabh17oo/Arunabh17oo/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <details>
-<summary><b>⚙️ How to enable this snake animation</b></summary>
+<summary><b>⚙️ How to activate the snake (one-time setup)</b></summary>
 
-Create `.github/workflows/snake.yml`:
+Create `.github/workflows/snake.yml` in this repo:
 
 ```yaml
 name: Generate Snake Animation
@@ -98,21 +98,21 @@ Then go to **Actions → Generate Snake Animation → Run workflow** once manual
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arunabh16&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arunabh17oo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunabh16&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arunabh16&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunabh17oo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arunabh16&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arunabh17oo&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunabh17oo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -244,7 +244,7 @@ Production-grade AI platform serving concurrent users at sub-300ms response late
 | 🤖 Machine Learning A-Z | Udemy |
 | 🗄️ Database Foundations | Oracle Academy |
 | 📮 Postman API Fundamentals | Postman |
-| ➕ 10+ More | [View on LinkedIn →](https://linkedin.com/in/arunabh16) |
+| ➕ 10+ More | [View on LinkedIn →](https://www.linkedin.com/in/arunabh-singh-63b436287/) |
 
 ---
 
@@ -252,9 +252,9 @@ Production-grade AI platform serving concurrent users at sub-300ms response late
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunabh16)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arunabh16)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunabh17oo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunabh-singh-63b436287/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arunabh17oo)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Arunabh17oo@gmail.com)
 
 </div>
 
@@ -266,6 +266,6 @@ Production-grade AI platform serving concurrent users at sub-300ms response late
 "Ship intelligent, scalable products. That's the goal."
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=arunabh16&color=00D9FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Arunabh17oo&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
